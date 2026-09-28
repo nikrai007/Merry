@@ -1,0 +1,10 @@
+# Release artifacts are attached to GitHub Releases, never committed
+*.dmg
+*.exe
+*.AppImage
+*.deb
+*.rpm
+*.apk
+*.zip
+*.tar.gz
+.DS_Store
